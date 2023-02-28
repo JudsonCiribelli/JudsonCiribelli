@@ -1,4 +1,4 @@
-### Olá! Eu sou Judson Ciribelli estudante de Ciências&Tecnologia da Universidade federal do Maranhão👋
+### Olá! Eu sou Judson Ciribelli👋
 
 - 🔭 Desenvolvedor front-end
 - 🌱 Atualmente estudando linguagem C
