@@ -1,6 +1,6 @@
 ### Olá! Eu sou Judson Ciribelli👋
 
-- 🔭 Desenvolvedor Full-stack
+- 🔭 Desenvolvedor Front-end
 - 🌱 Atualmente estudando linguagem C
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudsonCiribelli&show_icons=true&theme=tokyonight)
