@@ -4,7 +4,7 @@
 - 🌱 Atualmente estudando linguagem C
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudsonCiribelli&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudsonCiribelli&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="judson-HTML" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
