@@ -5,7 +5,7 @@
 
 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JudsonCiribelli&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudsonCiribelli&layout=compacttrue&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
