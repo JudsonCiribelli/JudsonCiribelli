@@ -1,5 +1,6 @@
 ### Olá meu nome é Judson Ciribelli 🔥
 ### Atualmente estudando linguagem C 💻
+### Apaixonado por tecnologia ❤️
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judson-ciribelli-a23867234/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_ciribelli_/)
@@ -16,4 +17,3 @@
   <img align="center" alt= "JAVASCRIPT"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt= "C"src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br/>
-Apaixonado por tecnologia
