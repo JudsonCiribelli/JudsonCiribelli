@@ -1,5 +1,5 @@
 ### Olá meu nome é Judson Ciribelli 🔥
-### Atualmente estudando JavaScript💻
+### Atualmente estudando ReactJs💻
 ### Apaixonado por tecnologia ❤️
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judson-ciribelli-a23867234/)
