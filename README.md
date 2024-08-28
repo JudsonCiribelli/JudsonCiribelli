@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_ciribelli_/)
 
 
-![Judson GitHub stats](https://github-readme-stats.vercel.app/api?username=Judsonciribelli&show_icons=true&theme=tokyonight)
+
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judsonciribelli&size_weight=0.5&count_weight=0.5&theme=tokyonight)
 
