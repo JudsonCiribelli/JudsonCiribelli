@@ -5,7 +5,7 @@
 
 ###
 
-<h5 align="left">👨‍🎓 Estudante de Ciências e Tecnologia, sempre fascinado por como a tecnologia pode transformar o mundo. Desde muito jovem, sou apaixonado por videogames e tudo que envolve inovação tecnológica. Tenho uma forte dedicação ao aprendizado contínuo e estou sempre buscando me aperfeiçoar em novas habilidades e desafios.<br><br>💻 Atualmente, estou focado no desenvolvimento de aplicações web, tanto no front-end quanto no back-end, utilizando ferramentas modernas como React.js e Node.js.<br><br>🎮 Nos meus tempos livres, adoro explorar o mundo dos games, que foi uma das minhas maiores inspirações para seguir na área de tecnologia.<br><br>🚀 Sou uma pessoa determinada, que valoriza a superação de desafios e o constante aprimoramento. Estou sempre buscando maneiras de aplicar o que aprendo para resolver problemas de forma criativa e eficiente.</h5>
+<h5 align="left">👨‍🎓 Formado em Ciências e Tecnologia, sempre fascinado por como a tecnologia pode transformar o mundo. Desde muito jovem, sou apaixonado por videogames e tudo que envolve inovação tecnológica. Tenho uma forte dedicação ao aprendizado contínuo e estou sempre buscando me aperfeiçoar em novas habilidades e desafios.<br><br>💻 Atualmente, estou focado no desenvolvimento de aplicações web, tanto no front-end quanto no back-end, utilizando ferramentas modernas como React.js e Node.js.<br><br>🎮 Nos meus tempos livres, adoro explorar o mundo dos games, que foi uma das minhas maiores inspirações para seguir na área de tecnologia.<br><br>🚀 Sou uma pessoa determinada, que valoriza a superação de desafios e o constante aprimoramento. Estou sempre buscando maneiras de aplicar o que aprendo para resolver problemas de forma criativa e eficiente.</h5>
 
 ###
 
