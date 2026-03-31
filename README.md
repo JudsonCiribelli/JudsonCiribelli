@@ -42,7 +42,7 @@
           
 
   <div align="left">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JudsonCiribelli=anuraghazra&show_icons=true&theme=transparent) graph"  />
+  
   
 </div>
 </div>
