@@ -5,7 +5,7 @@
 
 ###
 
-<h5 align="left">👨‍🎓 Formado em Ciências e Tecnologia, sempre fascinado por como a tecnologia pode transformar o mundo. Desde muito jovem, sou apaixonado por videogames e tudo que envolve inovação tecnológica. Tenho uma forte dedicação ao aprendizado contínuo e estou sempre buscando me aperfeiçoar em novas habilidades e desafios.<br><br>💻 Atualmente, estou focado no desenvolvimento de aplicações web, tanto no front-end quanto no back-end, utilizando ferramentas modernas como React.js e Node.js.<br><br>🎮 Nos meus tempos livres, adoro explorar o mundo dos games, que foi uma das minhas maiores inspirações para seguir na área de tecnologia.<br><br>🚀 Sou uma pessoa determinada, que valoriza a superação de desafios e o constante aprimoramento. Estou sempre buscando maneiras de aplicar o que aprendo para resolver problemas de forma criativa e eficiente.</h5>
+<h5 align="left">👨‍🎓 Formado em Ciências e Tecnologia pela UFMA, sou fascinado por como a tecnologia pode transformar o mundo. Desde muito jovem, sou apaixonado por videogames e inovação, o que me impulsiona a manter uma forte dedicação ao aprendizado contínuo e à busca por novos desafios.<br><br>💻 Atualmente, atuo no desenvolvimento de aplicações web Full Stack de ponta a ponta. No ecossistema TypeScript, crio interfaces responsivas com React.js e Next.js, e construo APIs robustas com Node.js (Express/NestJS). Além disso, estou mergulhando na infraestrutura em nuvem, estudando ativamente para conquistar minha certificação AWS Certified Cloud Practitioner.<br><br>🎮 Nos meus tempos livres, adoro explorar o mundo dos games, que foi a minha grande inspiração inicial para entrar e seguir na área de tecnologia.<br><br>🚀 Sou uma pessoa determinada, que valoriza o trabalho em equipe, a superação de desafios e o aprimoramento constante. Estou sempre buscando maneiras de aplicar o que aprendo para construir soluções criativas, eficientes e escaláveis.</h5>
 
 ###
 
@@ -56,6 +56,7 @@
 
   [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judson-ciribelli-a23867234/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_ciribelli_/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://judsonciribelli.dev/)
 
 
 ###
